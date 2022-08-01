@@ -1,4 +1,4 @@
 # 30ovos10reais
-suck my
+hi
 ## instalação do python
 sudo apt install python3
